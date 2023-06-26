@@ -2,7 +2,6 @@
 // Question no 1
 // Declare 3 variables in one statement.
 
-
 // var name, age, qualification;
 
 // Question no 2
